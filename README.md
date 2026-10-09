@@ -7,9 +7,9 @@
 
 <br>
 
-<a href="https://github.com/sabbirexist/Kodex-Repository"><img src="https://img.shields.io/badge/Kodex-Extensions-5865F2?style=flat-square&labelColor=171725" alt="Kodex" /></a>
-<a href="https://t.me/KodexUpdates"><img src="https://img.shields.io/badge/Updates-Telegram-171725?style=flat-square&logo=telegram&logoColor=9B91FF" alt="Updates" /></a>
-<a href="https://youtube.com/@sabbirsworld"><img src="https://img.shields.io/badge/Channel-YouTube-171725?style=flat-square&logo=youtube&logoColor=FF5555" alt="Channel" /></a>
+<a href="https://github.com/sabbirexist/Kodex-Repository"><img src="./assets/pills/hero-kodex.svg" height="32" alt="Kodex" /></a>
+<a href="https://t.me/KodexUpdates"><img src="./assets/pills/hero-updates.svg" height="32" alt="Updates" /></a>
+<a href="https://youtube.com/@sabbirsworld"><img src="./assets/pills/hero-channel.svg" height="32" alt="Channel" /></a>
 
 </div>
 
@@ -65,23 +65,23 @@ Off the keyboard, I work in **Premiere Pro** and **After Effects**. Code and cut
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Python-171725?style=flat-square&logo=python&logoColor=9B91FF" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-171725?style=flat-square&logo=fastapi&logoColor=9B91FF" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Telegram%20API-171725?style=flat-square&logo=telegram&logoColor=9B91FF" alt="Telegram API" />
+<img src="./assets/pills/python.svg" height="32" alt="Python" />
+<img src="./assets/pills/fastapi.svg" height="32" alt="FastAPI" />
+<img src="./assets/pills/telegram-api.svg" height="32" alt="Telegram API" />
 
 **Data and Infrastructure**
 
-<img src="https://img.shields.io/badge/MongoDB-171725?style=flat-square&logo=mongodb&logoColor=9B91FF" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-171725?style=flat-square&logo=redis&logoColor=9B91FF" alt="Redis" />
-<img src="https://img.shields.io/badge/Railway-171725?style=flat-square&logo=railway&logoColor=FFFFFF" alt="Railway" />
-<img src="https://img.shields.io/badge/Vercel-171725?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-<img src="https://img.shields.io/badge/Cloudflare-171725?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Netlify-171725?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+<img src="./assets/pills/mongodb.svg" height="32" alt="MongoDB" />
+<img src="./assets/pills/redis.svg" height="32" alt="Redis" />
+<img src="./assets/pills/railway.svg" height="32" alt="Railway" />
+<img src="./assets/pills/vercel.svg" height="32" alt="Vercel" />
+<img src="./assets/pills/cloudflare.svg" height="32" alt="Cloudflare" />
+<img src="./assets/pills/netlify.svg" height="32" alt="Netlify" />
 
 **Creative**
 
-<img src="https://img.shields.io/badge/Premiere%20Pro-171725?style=flat-square&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
-<img src="https://img.shields.io/badge/After%20Effects-171725?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
+<img src="./assets/pills/premiere-pro.svg" height="32" alt="Premiere Pro" />
+<img src="./assets/pills/after-effects.svg" height="32" alt="After Effects" />
 
 </div>
 
@@ -91,15 +91,15 @@ Off the keyboard, I work in **Premiere Pro** and **After Effects**. Code and cut
 
 <div align="center">
 
-<a href="https://discord.gg/hUp2r7W5"><img src="https://img.shields.io/badge/Discord-171725?style=for-the-badge&logo=discord&logoColor=9B91FF" alt="Discord" /></a>
-<a href="https://t.me/KodexUpdates"><img src="https://img.shields.io/badge/Telegram-171725?style=for-the-badge&logo=telegram&logoColor=9B91FF" alt="Telegram" /></a>
-<a href="https://x.com/sabbir69x"><img src="https://img.shields.io/badge/X-171725?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
-<a href="https://youtube.com/@sabbirsworld"><img src="https://img.shields.io/badge/YouTube-171725?style=for-the-badge&logo=youtube&logoColor=FF5555" alt="YouTube" /></a>
-<a href="https://instagram.com/sabbir.69x"><img src="https://img.shields.io/badge/Instagram-171725?style=for-the-badge&logo=instagram&logoColor=9B91FF" alt="Instagram" /></a>
-<a href="https://facebook.com/sabbir.69x"><img src="https://img.shields.io/badge/Facebook-171725?style=for-the-badge&logo=facebook&logoColor=9B91FF" alt="Facebook" /></a>
-<a href="https://reddit.com/user/sabbir69x"><img src="https://img.shields.io/badge/Reddit-171725?style=for-the-badge&logo=reddit&logoColor=FF6B4A" alt="Reddit" /></a>
-<a href="https://pinterest.com/sabbir69x"><img src="https://img.shields.io/badge/Pinterest-171725?style=for-the-badge&logo=pinterest&logoColor=E60023" alt="Pinterest" /></a>
-<a href="https://github.com/sabbirexist"><img src="https://img.shields.io/badge/GitHub-171725?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://discord.gg/hUp2r7W5"><img src="./assets/pills/discord.svg" height="32" alt="Discord" /></a>
+<a href="https://t.me/KodexUpdates"><img src="./assets/pills/connect-telegram.svg" height="32" alt="Telegram" /></a>
+<a href="https://x.com/sabbir69x"><img src="./assets/pills/x.svg" height="32" alt="X" /></a>
+<a href="https://youtube.com/@sabbirsworld"><img src="./assets/pills/youtube.svg" height="32" alt="YouTube" /></a>
+<a href="https://instagram.com/sabbir.69x"><img src="./assets/pills/instagram.svg" height="32" alt="Instagram" /></a>
+<a href="https://facebook.com/sabbir.69x"><img src="./assets/pills/facebook.svg" height="32" alt="Facebook" /></a>
+<a href="https://reddit.com/user/sabbir69x"><img src="./assets/pills/reddit.svg" height="32" alt="Reddit" /></a>
+<a href="https://pinterest.com/sabbir69x"><img src="./assets/pills/pinterest.svg" height="32" alt="Pinterest" /></a>
+<a href="https://github.com/sabbirexist"><img src="./assets/pills/github.svg" height="32" alt="GitHub" /></a>
 
 </div>
 
