@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D16,50:242044,100:5865F2&height=220&section=header&text=Sabbir&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%2F%20Video%20Editor&descSize=16&descAlignY=62&descColor=B8B7D9" width="100%" alt="Sabbir - Developer / Video Editor" />
+<img src="./assets/header.svg" width="100%" alt="Sabbir - Developer / Video Editor" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=9B91FF&center=true&vCenter=true&width=520&lines=I+write+code+that+talks+to+Telegram.;I+cut+footage+that+talks+to+people.;Bots%2C+backends%2C+streams%2C+edits.;Shipping+beats+planning." alt="Intro" />
 </a>
 
-<br><br>
+<br>
 
-<a href="https://github.com/sabbirexist/Kodex-Repository"><img src="https://img.shields.io/badge/Kodex-Cloudstream%20Extensions-5865F2?style=for-the-badge&labelColor=171725" alt="Kodex" /></a>
-<a href="https://t.me/KodexUpdates"><img src="https://img.shields.io/badge/Updates-Telegram-171725?style=for-the-badge&logo=telegram&logoColor=9B91FF" alt="Telegram Updates" /></a>
-<a href="https://youtube.com/@sabbirsworld"><img src="https://img.shields.io/badge/Channel-YouTube-171725?style=for-the-badge&logo=youtube&logoColor=FF5555" alt="YouTube" /></a>
+<a href="https://github.com/sabbirexist/Kodex-Repository"><img src="https://img.shields.io/badge/Kodex-Extensions-5865F2?style=flat-square&labelColor=171725" alt="Kodex" /></a>
+<a href="https://t.me/KodexUpdates"><img src="https://img.shields.io/badge/Updates-Telegram-171725?style=flat-square&logo=telegram&logoColor=9B91FF" alt="Updates" /></a>
+<a href="https://youtube.com/@sabbirsworld"><img src="https://img.shields.io/badge/Channel-YouTube-171725?style=flat-square&logo=youtube&logoColor=FF5555" alt="Channel" /></a>
 
 </div>
 
