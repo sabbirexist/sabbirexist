@@ -1,18 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FBE,100:5865F2&height=220&section=header&text=Sabbir&fontSize=72&fontColor=ffffff&desc=heart%20made%20of%20music&descAlignY=66&descSize=18" alt="Sabbir" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FBE,100:5865F2&height=220&section=header&text=Sabbir&fontSize=72&fontColor=ffffff&desc=Developer%20%26%20Video%20Editor&descAlignY=66&descSize=18" alt="Sabbir" width="100%" />
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7B2FBE&center=true&vCenter=true&width=560&lines=Telegram+bot+developer;Streaming+platform+builder;Video+editor;Open-source+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=7B2FBE&center=true&vCenter=true&width=620&lines=Telegram+bot+developer;Streaming+platform+builder;Python+%26+FastAPI+backend;Video+editor+in+Premiere+Pro;Open-source+contributor;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br>
 
-Building Telegram bots, streaming platforms and utility tools.
+*heart made of music*
 
-<br>
+</div>
+
+---
+
+## About Me
+
+<div align="center">
+
+Hi, I'm **Sabbir** — a **developer** and **video editor** from *Shibchar, Madaripur*.
+
+I build **Telegram bots**, **streaming platforms** and **utility tools**, mostly in **Python** with **FastAPI**, backed by **MongoDB** and **Redis**, and deployed across **Railway**, **Vercel**, **Cloudflare** and **Netlify**.
+
+On the creative side I cut edits in **Premiere Pro** and **After Effects** — turning raw footage into polished final cuts.
+
+I'm part of the **Kodex** community and contribute to open source, including the **WZGram** Pyrogram fork.
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
 
 <a href="https://discord.gg/hUp2r7W5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://facebook.com/sabbir.69x"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -24,10 +46,13 @@ Building Telegram bots, streaming platforms and utility tools.
 <a href="https://t.me/KodexUpdates"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/sabbirexist"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br>
-<br>
+</div>
 
-### Stack
+---
+
+## Stack
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -47,12 +72,11 @@ Building Telegram bots, streaming platforms and utility tools.
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
 
-<br>
-<br>
+</div>
 
 ---
 
-<br>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:7B2FBE&height=90&section=footer" alt="Footer" width="100%" />
 
