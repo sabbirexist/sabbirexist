@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Sabbir - Developer / Video Editor" />
+<img src="./assets/header-light.svg" width="100%" alt="Sabbir - Developer / Video Editor" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=9B91FF&center=true&vCenter=true&width=520&lines=I+write+code+that+talks+to+Telegram.;I+cut+footage+that+talks+to+people.;Bots%2C+backends%2C+streams%2C+edits.;Shipping+beats+planning." alt="Intro" />
 </a>
@@ -107,8 +107,6 @@ Off the keyboard, I work in **Premiere Pro** and **After Effects**. Code and cut
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:171725&height=80&section=footer" width="100%" alt="" />
-
-<sub>Built with curiosity. Refined through iteration.</sub>
+<img src="./assets/footer-light.svg" width="100%" alt="Built with curiosity. Refined through iteration." />
 
 </div>
