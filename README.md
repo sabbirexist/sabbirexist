@@ -54,8 +54,8 @@ Currently building, experimenting and contributing to open source through **Kode
 | Project | Description |
 |:---:|:---|
 | **[Kodex Repository](https://github.com/sabbirexist/Kodex-Repository)** | Curated Cloudstream 3 extensions for movies, series, anime and drama |
-| **AGxMusic** | Music · *private* |
-| **STxTools** | Tools · *private* |
+| **[AGxMusic](https://github.com/sabbirexist/AGxMusic)** | Music · *private* |
+| **[STxTools](https://github.com/sabbirexist/STxTools)** | Tools · *private* |
 | **[WZGram](https://github.com/rjriajul/wzgram)** | Pyrogram-compatible Telegram library fork — contributor |
 
 </div>
