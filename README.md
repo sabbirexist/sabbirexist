@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D16,50:242044,100:5865F2&height=220&section=header&text=Sabbir&fontSize=70&fontColor=FFFFFF&desc=Developer%20%2F%20Video%20Editor&descSize=16&descAlignY=66&descColor=B8B7D9" width="100%" alt="Sabbir - Developer / Video Editor" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D16,50:242044,100:5865F2&height=220&section=header&text=Sabbir&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%2F%20Video%20Editor&descSize=16&descAlignY=62&descColor=B8B7D9" width="100%" alt="Sabbir - Developer / Video Editor" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=9B91FF&center=true&vCenter=true&width=520&lines=I+write+code+that+talks+to+Telegram.;I+cut+footage+that+talks+to+people.;Bots%2C+backends%2C+streams%2C+edits.;Shipping+beats+planning." alt="Intro" />
 </a>
@@ -83,17 +82,6 @@ Off the keyboard, I work in **Premiere Pro** and **After Effects**. Code and cut
 
 <img src="https://img.shields.io/badge/Premiere%20Pro-171725?style=flat-square&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
 <img src="https://img.shields.io/badge/After%20Effects-171725?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sabbirexist&show_icons=true&hide_border=true&bg_color=0D0D16&title_color=9B91FF&icon_color=5865F2&text_color=B8B7D9&ring_color=5865F2&include_all_commits=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirexist&layout=compact&hide_border=true&bg_color=0D0D16&title_color=9B91FF&text_color=B8B7D9" width="49%" alt="Top languages" />
 
 </div>
 
