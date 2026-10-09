@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FBE,100:5865F2&height=220&section=header&text=Sabbir&fontSize=72&fontColor=ffffff&desc=heart%20made%20of%20music%20%E2%99%AB&descAlignY=66&descSize=18" alt="Sabbir" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FBE,100:5865F2&height=220&section=header&text=Sabbir&fontSize=72&fontColor=ffffff&desc=heart%20made%20of%20music&descAlignY=66&descSize=18" alt="Sabbir" width="100%" />
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7B2FBE&center=true&vCenter=true&width=560&lines=Telegram+bot+developer+%F0%9F%A4%96;Streaming+platform+builder+%F0%9F%8E%A7;Video+editor+%E2%9C%82%EF%B8%8F;Open-source+contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7B2FBE&center=true&vCenter=true&width=560&lines=Telegram+bot+developer;Streaming+platform+builder;Video+editor;Open-source+contributor" alt="Typing SVG" />
 </a>
 
 <br>
