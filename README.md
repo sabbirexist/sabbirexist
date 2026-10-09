@@ -1,8 +1,10 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D16,50:242044,100:5865F2&height=220&section=header&text=SABBIR&fontSize=64&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%2F%20VIDEO%20EDITOR&descSize=14&descAlignY=64&descColor=B8B7D9" width="100%" alt="Sabbir — Developer / Video Editor" /><br><a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9B91FF&center=true&vCenter=true&width=500&lines=Building+tools+that+matter.;Engineering+bots+and+web+platforms.;Creating+with+code+and+visuals." alt="Introduction" />
-</a><br>"GitHub" (https://github.com/sabbirexist) · "Portfolio" (https://github.com/sabbirexist/visualsbysabbir) · "Telegram" (https://t.me/KodexUpdates)
+</a><br>[GitHub](https://github.com/sabbirexist) · [Portfolio](https://github.com/sabbirexist/visualsbysabbir) · [Telegram](https://t.me/KodexUpdates)
 
-</div>---
+</div>
+
+---
 
 ABOUT
 
@@ -43,7 +45,9 @@ Video editing, motion graphics, compositing, and cinematic storytelling.
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 
 SELECTED PROJECTS
 
@@ -53,14 +57,14 @@ SELECTED PROJECTS
 
 A curated collection of Cloudstream 3 extensions for discovering movies, series, anime, and dramas.
 
-"Explore repository ↗" (https://github.com/sabbirexist/Kodex-Repository)
+[Explore repository ↗](https://github.com/sabbirexist/Kodex-Repository)
 
 </td>
 <td width="50%" valign="top">Visuals by Sabbir
 
 A dedicated portfolio project showcasing video editing and creative work.
 
-"View project ↗" (https://github.com/sabbirexist/visualsbysabbir)
+[View project ↗](https://github.com/sabbirexist/visualsbysabbir)
 
 </td>
 </tr>
@@ -69,18 +73,20 @@ A dedicated portfolio project showcasing video editing and creative work.
 
 A Telegram music bot focused on group-call audio streaming.
 
-"Explore repository ↗" (https://github.com/sabbirexist/makimamusic)
+[Explore repository ↗](https://github.com/sabbirexist/makimamusic)
 
 </td>
 <td width="50%" valign="top">WZGram
 
 A Pyrogram-compatible Telegram library fork, with contributions to the ecosystem.
 
-"Explore repository ↗" (https://github.com/rjriajul/wzgram)
+[Explore repository ↗](https://github.com/rjriajul/wzgram)
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 
 TECHNOLOGY
 
@@ -90,7 +96,9 @@ Languages & Backend
 <img src="https://img.shields.io/badge/Python-171725?style=flat-square&logo=python&logoColor=9B91FF" />
 <img src="https://img.shields.io/badge/FastAPI-171725?style=flat-square&logo=fastapi&logoColor=9B91FF" />
 <img src="https://img.shields.io/badge/Telegram_API-171725?style=flat-square&logo=telegram&logoColor=9B91FF" />
-</p>Data & Infrastructure
+</p>
+
+Data & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-171725?style=flat-square&logo=mongodb&logoColor=9B91FF" />
@@ -99,12 +107,16 @@ Languages & Backend
 <img src="https://img.shields.io/badge/Vercel-171725?style=flat-square&logo=vercel&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Cloudflare-171725?style=flat-square&logo=cloudflare&logoColor=F38020" />
 <img src="https://img.shields.io/badge/Netlify-171725?style=flat-square&logo=netlify&logoColor=00C7B7" />
-</p>Creative Suite
+</p>
+
+Creative Suite
 
 <p>
 <img src="https://img.shields.io/badge/Premiere_Pro-171725?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
 <img src="https://img.shields.io/badge/After_Effects-171725?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
-</p>---
+</p>
+
+---
 
 ELSEWHERE
 
